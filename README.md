@@ -1,6 +1,6 @@
 # 📊 Infogram_Lizarzazu
 
-Proyecto desarrollado por **Juan Jose Lizarazu Quiroga** como parte del curso de *Tecnología Web I* en el Instituto Infocal, guiado por el docente **Ing. Martin Albino Ascui**.
+Proyecto desarrollado por **Juan Jose Lizarazu Quiroga** como parte del curso de *Programación Movil I* en el Instituto Infocal, guiado por el docente **Ing. Martin Albino Ascui**.
 
 Este proyecto fue construido siguiendo una serie de tutoriales proporcionados por el docente, complementados con recursos audiovisuales disponibles en YouTube. El objetivo principal es aplicar conocimientos de desarrollo móvil utilizando **Java** y **Material Design**, creando una aplicación funcional y visualmente coherente.
 
@@ -26,7 +26,15 @@ Este proyecto fue construido siguiendo una serie de tutoriales proporcionados po
 
 ## 📁 Estructura del Proyecto
 
-Infogram_Lizarzazu/ ├── .idea/ # Configuración del entorno ├── gradle/ # Scripts de construcción ├── app/ # Código fuente principal │ ├── java/ # Clases Java │ └── res/ # Recursos gráficos y layouts ├── build.gradle # Configuración de Gradle ├── settings.gradle # Configuración del proyecto └── README.md # Documentación del proyecto
+Infogram_Lizarzazu/ 
+├── .idea/ # Configuración del entorno 
+├── gradle/ # Scripts de construcción 
+├── app/ # Código fuente principal │ 
+├── java/ # Clases Java 
+│ └── res/ # Recursos gráficos y layouts 
+├── build.gradle # Configuración de Gradle 
+├── settings.gradle # Configuración del proyecto 
+└── README.md # Documentación del proyecto
 
 
 ---
