@@ -4,4 +4,17 @@
     <string name="nombre_de_usuario">Username</string>
     <string name="contrasena">Password</string>
     <string name="button_text">LOGIN</string>
+    <string name="no_tienes_una_cuenta">"Don´t have an account?, "</string>
+    <string name="crea_una_aqui"> register here</string>
+    <string name="correo">Email</string>
+    <string name="nombre">Name</string>
+    <string name="usuario">User</string>
+    <string name="button_text_create_account">JOIN US!</string>
+    <string name="contrase_a">Password</string>
+    <string name="confirmar_contrase_a">Confirm Password</string>
+    <string name="title_crear_cuenta">Create Account</string>
+    <string name="juan_jose_lizarazu_cardview">Juan Jose Lizarazu</string>
+    <string name="hace_cardview">Four</string>
+    <string name="dias_cardview">" 4 days"</string>
+    <string name="me_gusta_cardview">Me gusta</string>
 </resources>

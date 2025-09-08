@@ -1,5 +1,6 @@
 package com.jjlizarazu.infogram;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
@@ -25,4 +26,10 @@ public class LoginActivity extends AppCompatActivity {
             getWindow().setStatusBarColor(android.graphics.Color.TRANSPARENT);
         }
     }
+
+    public void goCreateAccount(View view){
+        Intent intent = new Intent(this, CreateAccountActivity.class);
+        startActivity(intent);
+    }
+
 }
