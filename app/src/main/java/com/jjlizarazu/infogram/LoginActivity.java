@@ -1,14 +1,13 @@
 package com.jjlizarazu.infogram;
 
 import android.content.Intent;
-import android.graphics.Color;
-import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.jjlizarazu.infogram.view.ContainerActivity;
+import com.jjlizarazu.infogram.view.CreateAccountActivity;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -32,4 +31,8 @@ public class LoginActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void login(View view) {
+        Intent intent = new Intent(this, ContainerActivity.class);
+        startActivity(intent);
+    }
 }

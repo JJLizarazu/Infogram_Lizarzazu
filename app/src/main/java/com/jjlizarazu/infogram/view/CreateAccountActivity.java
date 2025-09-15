@@ -1,4 +1,4 @@
-package com.jjlizarazu.infogram;
+package com.jjlizarazu.infogram.view;
 
 import android.os.Bundle;
 import android.widget.Toolbar;
@@ -8,6 +8,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.jjlizarazu.infogram.R;
 
 public class CreateAccountActivity extends AppCompatActivity {
 
